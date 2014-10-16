@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[azg:home|Door43 (azg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-azg|d43-azg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-azg/archive/master.zip|d43-azg.zip]]
+
+**Recent Changes**
+{{changes>ns = azg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/azg|Ethnologue data]]
+
